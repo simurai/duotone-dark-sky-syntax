@@ -1,4 +1,4 @@
-# DuoTone Dark Space Theme
+# DuoTone Dark Sky Theme
 
 A double-hue syntax theme for Atom.
 

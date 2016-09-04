@@ -1,16 +1,16 @@
 {
-  "name": "duotone-dark-space-syntax",
+  "name": "duotone-dark-sky-syntax",
   "theme": "syntax",
   "version": "1.0.0",
-  "description": "A dark blue-red DuoTone syntax theme",
+  "description": "A dark blue-yellow DuoTone syntax theme",
   "keywords": [
     "dark",
     "blue",
-    "red",
+    "yellow",
     "duotone",
     "syntax"
   ],
-  "repository": "https://github.com/simurai/duotone-dark-space-syntax",
+  "repository": "https://github.com/simurai/duotone-dark-sky-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">1.0.0"
