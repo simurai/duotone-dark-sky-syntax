@@ -2,11 +2,11 @@
   "name": "duotone-dark-sky-syntax",
   "theme": "syntax",
   "version": "1.0.0",
-  "description": "A dark blue-yellow DuoTone syntax theme",
+  "description": "A dark purple-orange DuoTone syntax theme",
   "keywords": [
     "dark",
-    "blue",
-    "yellow",
+    "purple",
+    "orange",
     "duotone",
     "syntax"
   ],
@@ -16,6 +16,6 @@
     "atom": ">1.0.0"
   },
   "dependencies": {
-    "duotone-syntax": "2.0.0"
+    "duotone-syntax": "^2.0.0"
   }
 }
